@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">User List</string>
+    <string name="search_hint">Please input name, tag, email...</string>
+    <string name="bar_all">All</string>
+    <string name="bar_android">Android</string>
+    <string name="bar_ios">iOS</string>
+    <string name="bar_design">Designers</string>
+    <string name="bar_management">Managers</string>
+    <string name="bar_qa">QA</string>
+    <string name="bar_back_office">Back office</string>
+    <string name="bar_frontend">Frontends</string>
+    <string name="bar_hr">HR</string>
+    <string name="bar_pr">PR</string>
+    <string name="bar_backend">Backends</string>
+    <string name="bar_support">Support</string>
+    <string name="bar_analytics">Analytics</string>
+    <string name="space"> </string>
+    <string name="we_didn_t_find_anything">We didn\'t find anything</string>
+    <string name="please_try_to_change_your_request">Please try to change your request</string>
+
+    <array name="tabs">
+        <item>All</item>
+        <item>Designers</item>
+        <item>Analytics</item>
+        <item>Managers</item>
+        <item>iOS</item>
+        <item>Android</item>
+        <item>QA</item>
+        <item>Back office</item>
+        <item>Frontends</item>
+        <item>HR</item>
+        <item>PR</item>
+        <item>Backends</item>
+        <item>Support</item>
+    </array>
+
+    <array name="positions">
+        <item>all</item>
+        <item>design</item>
+        <item>analytics</item>
+        <item>management</item>
+        <item>ios</item>
+        <item>android</item>
+        <item>qa</item>
+        <item>back_office</item>
+        <item>frontend</item>
+        <item>hr</item>
+        <item>pr</item>
+        <item>backend</item>
+        <item>support</item>
+    </array>
+</resources>
